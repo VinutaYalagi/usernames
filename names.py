@@ -4,3 +4,4 @@ contact = input("enter your contact details")
 
 print("Your details:",name+" "+surname)
 print("Your contact is:",contact)
+print("hello")
